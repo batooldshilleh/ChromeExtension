@@ -5,7 +5,7 @@ This add-on to save website links
 <br>
 ![image](https://user-images.githubusercontent.com/93814390/212495272-824facf7-f471-4071-9600-e21e961a784e.png)
 <br>
-The extension contains three buttons
+The extension contains three buttons <br>
 ![image](https://user-images.githubusercontent.com/93814390/212495387-34ef7a0b-c68e-419f-bee0-9e95dc573068.png)
 <br>
 🦊  After writing the URL and pressing the Save Input button <br>
