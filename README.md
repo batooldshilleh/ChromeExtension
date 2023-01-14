@@ -1,6 +1,6 @@
 # ChromeExtension
 
-🦊 This add-on to save website links
+🦊 This Extension to save website links
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/93814390/212496065-085b2304-61ef-45e9-9e84-edaddbbf6427.png)
